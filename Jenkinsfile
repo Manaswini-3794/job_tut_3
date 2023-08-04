@@ -1,7 +1,7 @@
 pipeline {
   agent {
      node { 
-        label 'lsv03259'
+        label 'manaswini-lp'
         } 
   }
     stages{
